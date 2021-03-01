@@ -15,7 +15,6 @@ var peer = new Peer(undefined, {
 });
 
 let myVideoStream;
-login;
 
 var getUserMedia =
   navigator.getUserMedia ||
